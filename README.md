@@ -1,21 +1,12 @@
 <h1 align="center">Hey there! 👋 I'm SIYA P P</h1>
 <h3 align="center">Aspiring Cybersecurity Enthusiast | Passionate Programmer | Backend Developer</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alchemist501&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p> -->
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alchemist501" alt="profile trophies" /></a> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/your_twitter_handle" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p> -->
 
 - 🔭 Currently diving deep into **CyberSecurity And Programming**
 
 - 👯 Looking to collaborate with **like minded programmers and cyberSec enthusiasts**
 
-<!-- - 🤝 Proud to have worked with **[Highlight Key Organizations or Projects]** -->
-
 - 👨‍💻 Explore my latest projects and code on [GitHub](https://github.com/Alchemist501)
-
-<!-- - 💌 Connect with me on [Instagram](https://instagram.com/your_instagram_handle) -->
 
 - 💬 Open to discussions on **CyberSecuity And Global Enterprise**
 
