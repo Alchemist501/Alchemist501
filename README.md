@@ -16,7 +16,7 @@
     <a href="https://linkedin.com/in/Alchemist501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="mailto:siya123jc@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="auto" /></a>
     <a href="https://discordapp.com/users/unknownsoul9883" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="auto" /></a>
-    <a href="https://t.me/Lumin_saturn_123" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" height="40" width="auto" /></a>
+<!--     <a href="https://t.me/Lumin_saturn_123" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" height="40" width="auto" /></a> -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
