@@ -11,13 +11,15 @@
 - 💬 Open to discussions on **CyberSecuity And Global Enterprise**
 
 - 📫 Reach out at **siya123jc@gmail.com**
-
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Alchemist501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Cipherninja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<a href="mailto:siya123jc@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="auto" /></a>
+<a href="https://discordapp.com/users/unknownsoul9883" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="auto" /></a>
+<a href="https://t.me/Lumin_saturn_123" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" height="40" width="auto" /></a>
+<a href="https://signal.me/#p/YourSignalNumber" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/signal-app.png" alt="Signal" height="40" width="auto" /></a>
 
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -34,6 +36,11 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+<p align="left">
+    <a href="https://tryhackme.com/p/HoloCrypt" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/HoloCrypt.png" alt="TryHackMe"></a>
+    <a href="https://app.hackthebox.com/profile/2005354" target="_blank"><img src="https://www.hackthebox.eu/badge/image/2005354" alt="HackTheBox"></a>
+    <a href="https://leetcode.com/u/Cipherninja/" target="_blank"><img src="https://leetcard.jacoblin.cool/Cipherninja" alt="LeetCode"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alchemist501&show_icons=true&locale=en&layout=compact" alt="Languages" /></p>
 
